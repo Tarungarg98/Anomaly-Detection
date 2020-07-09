@@ -1,4 +1,4 @@
-*** This is not a working code rather a dummy code due to sharing restrictions of data. You can use the framework and test on your data by making the required changes ***
+*** This is not a working code rather a dummy code due to data sharing restrictions. You can use the framework and test on your data by making the required changes ***
 
 
 What is it about ?
